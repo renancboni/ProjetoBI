@@ -9,6 +9,6 @@ Nesse projeto utilizei as seguintes ferramentas:
 * MySQL como Banco de Dados;
 * DbSchema para modelagem;
 * Pentaho Data Integration para fazer ETL;
-* Metabase para publicação e criação do Dashboard. 
+* Metabase para publicar o Relatório/Dashboard. 
 
 A ideia do projeto partiu do site https://dadosaocubo.com/bi-do-problema-ao-dashboard 
